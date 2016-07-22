@@ -1,0 +1,6 @@
+D:\Projects\Training\Hello Tomi\Hello Tomi\bin\Debug\Hello Tomi.exe.config
+D:\Projects\Training\Hello Tomi\Hello Tomi\bin\Debug\Hello Tomi.exe
+D:\Projects\Training\Hello Tomi\Hello Tomi\bin\Debug\Hello Tomi.pdb
+D:\Projects\Training\Hello Tomi\Hello Tomi\obj\Debug\Hello Tomi.csprojResolveAssemblyReference.cache
+D:\Projects\Training\Hello Tomi\Hello Tomi\obj\Debug\Hello Tomi.exe
+D:\Projects\Training\Hello Tomi\Hello Tomi\obj\Debug\Hello Tomi.pdb
