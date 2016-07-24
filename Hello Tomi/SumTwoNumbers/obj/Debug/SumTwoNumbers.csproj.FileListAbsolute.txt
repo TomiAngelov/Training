@@ -1,0 +1,6 @@
+D:\Projects\Tomi\Training\Hello Tomi\SumTwoNumbers\bin\Debug\SumTwoNumbers.exe.config
+D:\Projects\Tomi\Training\Hello Tomi\SumTwoNumbers\bin\Debug\SumTwoNumbers.exe
+D:\Projects\Tomi\Training\Hello Tomi\SumTwoNumbers\bin\Debug\SumTwoNumbers.pdb
+D:\Projects\Tomi\Training\Hello Tomi\SumTwoNumbers\obj\Debug\SumTwoNumbers.csprojResolveAssemblyReference.cache
+D:\Projects\Tomi\Training\Hello Tomi\SumTwoNumbers\obj\Debug\SumTwoNumbers.exe
+D:\Projects\Tomi\Training\Hello Tomi\SumTwoNumbers\obj\Debug\SumTwoNumbers.pdb
